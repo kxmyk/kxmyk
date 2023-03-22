@@ -10,7 +10,7 @@ My name is Kamil Lukasiuk and im aspiring fullstack web developer. Currently on 
 - 🔭 I’m currently working on: 
   Social Media Platform
 - 🌱 I’m currently learning:
-  MERN Stack
+  Symfony
 - 👯 I’m looking to collaborate on: 
   Anything really! Im opened and enthusiastic about any new experience that will make me a better developer
 - 🤠 In the free time I like to play games and watch anime
