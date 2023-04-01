@@ -16,7 +16,7 @@ Currently on a second year of an IT course on uni
   Anything really! Im opened and enthusiastic about any new experience that will make me a better developer
 - 🤠 In the free time I like to play games and watch anime
 - 📫 How to reach me: 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://linkedin.com/in/lukasiukkamil)
+[![](https://img.shields.io/badge/-Linkedin-0073B1?style=flat-square)](https://linkedin.com/in/lukasiukkamil)
 [![](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/lksiuk/)
 <br>
 
