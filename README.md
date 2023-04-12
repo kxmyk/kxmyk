@@ -9,9 +9,9 @@ Currently on a second year of an IT course on uni
 
 
 - 🔭 I’m currently working on: 
-  Social Media Platform
+  eCommerce webapp
 - 🌱 I’m currently learning:
-  Symfony
+  MERN stack
 - 👯 I’m looking to collaborate on: 
   Anything really! Im opened and enthusiastic about any new experience that will make me a better developer
 - 🤠 In the free time I like to play games and watch anime
