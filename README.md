@@ -1,6 +1,6 @@
 ## Hi!
 
-<img height="200" src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-29.gif"/>
+<img height="200" src="https://media.tenor.com/TQ3Jul8r2DwAAAAC/anime-boy.gif"/>
 
 
 My name is Kamil Lukasiuk and im aspiring fullstack web developer <br> 
