@@ -4,14 +4,14 @@
 
 
 My name is Kamil Lukasiuk and im aspiring fullstack web developer <br> 
-Currently on a second year of an IT course on uni
+Currently on a third year of an IT course on uni
 
 
 
 - 🔭 I’m currently working on: 
-  Ecommerce App in Laravel 10
+  Ecommerce App in Java/Spring Boot and Angular
 - 🌱 I’m currently learning:
-  Laravel
+  Java and Angular
 - 👯 I’m looking to collaborate on: 
   Anything really! Im opened and enthusiastic about any new experience that will make me a better developer
 - 🤠 In the free time I like to hit the gym, play games, and watch anime
