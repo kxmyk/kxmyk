@@ -3,15 +3,12 @@
 <img height="200" src="https://media.tenor.com/TQ3Jul8r2DwAAAAC/anime-boy.gif"/>
 
 
-My name is Kamil Lukasiuk and im aspiring fullstack web developer <br> 
-Currently on a third year of an IT course on uni
+My name is Kamil and I am a junior fullstack web developer <br> 
+Currently on a third year of an IT course on AHE university
 
 
-
-- 🔭 I’m currently working on: 
-  Ecommerce App in Java/Spring Boot and Angular
 - 🌱 I’m currently learning:
-  Java and Angular
+  Devops and Cloud Engineering basics
 - 👯 I’m looking to collaborate on: 
   Anything really! Im opened and enthusiastic about any new experience that will make me a better developer
 - 🤠 In the free time I like to hit the gym, play games, and watch anime
